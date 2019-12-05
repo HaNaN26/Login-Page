@@ -1,0 +1,39 @@
+.LoginSec .container {
+    width: 44% !important;
+    box-shadow: 1rem 1rem 1rem #bfbfbf;
+    margin-bottom: 14%;
+    background-color: #c6e1e873!important;
+}
+
+.LoginSec .loginForm input {
+    line-height: 3 !important;
+}
+.loginForm a {
+    color: #52519e!important;
+}
+    .loginForm a:hover {
+        color: #4b4154 !important;
+    }
+
+.LoginSec div {
+    margin-top: 10%;
+    width: 100%;
+    border-style: none;
+}
+.LoginSec .loginForm #chbox {
+    margin-bottom: -5%;
+    margin-right: 2%;
+}
+
+.LoginSec .loginForm #login {
+    margin-bottom: -5%;
+    background-image: linear-gradient(to right,#9ba1ac, #232635) !important;
+    border: #9ba1ac !important;
+}
+    .LoginSec .loginForm #login:hover {
+        background-image: linear-gradient(to right,#9ba1ac,#456376) !important;
+        border-color: #9ba1ac!important;
+    }
+    .LoginSec .loginForm #reg, .LoginSec .loginForm #forget {
+        margin-bottom: -5%;
+    }
